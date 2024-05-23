@@ -1,0 +1,27 @@
+# System files
+.DS_Store
+.Trash/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+
+# Other
+*.log
+*.tmp
